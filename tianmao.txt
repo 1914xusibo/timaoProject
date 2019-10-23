@@ -1,1 +1,5 @@
 项目的开始
+var obj={
+ a:1;
+ b:function(){}
+}
